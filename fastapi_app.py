@@ -1,7 +1,7 @@
 
 
 from fastapi import FastAPI
-from python_model import model # Change this to match your model import statement
+from model import model # Change this to match your model import statement
 
 app = FastAPI()
 
