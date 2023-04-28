@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-st.title("bulats_model")
+st.title("Your Model Name")
 
 user_input = st.text_area("Enter data for prediction:", "")
 

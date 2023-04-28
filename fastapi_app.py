@@ -1,5 +1,7 @@
+
+
 from fastapi import FastAPI
-from bulats_model import model # Change this to match your model import statement
+from python_model import model # Change this to match your model import statement
 
 app = FastAPI()
 
